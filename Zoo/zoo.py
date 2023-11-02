@@ -108,6 +108,7 @@ The rabbit habitat...
     \_|    )_-\ \_-`
       `-----` `--`
 It looks fine!"""
+
 animals = [camel, lion, deer, goose, bat, rabbit]
 print("I love animals!")
 print("Let's check out the animals...")
