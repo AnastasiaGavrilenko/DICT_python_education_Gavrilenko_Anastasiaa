@@ -13,11 +13,11 @@ def main():
           |||       \\ |
           ((|        ((|
           |||        |||
-          //_(       //_(
+         //_(       //_(
     """
     lion = r"""
     The lion habitat...
- \|\||
+     \|\||
   -' ||||/
  /7   |||||/
 /    |||||||/`-.____________
@@ -56,10 +56,10 @@ def main():
                              | || |           | |   | |
                              |_||_|           |_|   |_|
                             /_//_/           /_/   /_/
-
     """
     goose = r"""
     The goose habitat...
+
                                    ___
                                ,-""   `.
                              ,'  _   e )`-._
@@ -81,6 +81,7 @@ def main():
                  \   --<
                   `.`.<
                     `-'
+
     """
     bat = r"""
     The bat habitat...
@@ -109,6 +110,7 @@ w^.._      /      "\_                      _/"     \        _.^w
     \_|    )_-\ \_-`
        `-----` `--`
     """
+
     animals = [camel, lion, deer, goose, bat, rabbit]
     while True:
         user_input = input("Please enter the number of the habitat you would like to view: ")
