@@ -1,0 +1,5 @@
+Anastasia 200
+Andrii 250
+Nadiya 300
+Natalia 400
+Oleg 300
