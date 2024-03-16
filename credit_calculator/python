@@ -1,0 +1,24 @@
+C:\Users\ngawr\PycharmProjects\pythonProject1\credit_calculator>python credit_calculator.py --type=diff --principal=1000000 --periods=10 --interest=10
+Month 1: payment is 100695
+Month 2: payment is 100625
+Month 3: payment is 100556
+Month 4: payment is 100487
+Month 5: payment is 100417
+Month 6: payment is 100348
+Month 7: payment is 100278
+Month 8: payment is 100209
+Month 9: payment is 100139
+Month 10: payment is 100070
+Overpayment = 3824
+
+C:\Users\ngawr\PycharmProjects\pythonProject1\credit_calculator>python credit_calculator.py --type=annuity --principal=1000000 --periods=60 --interest=10
+Your annuity payment = 17023!
+Overpayment = 21380
+
+C:\Users\ngawr\PycharmProjects\pythonProject1\credit_calculator>python credit_calculator.py --type=annuity --payment=8722 --periods=120 --interest=5.6
+Your loan principal = 491994643!
+Overpayment = -490948003
+
+C:\Users\ngawr\PycharmProjects\pythonProject1\credit_calculator>python credit_calculator.py --type=annuity --principal=500000 --payment=23000 --interest=7.8
+You need 1 years and 10 months to repay this loan!
+Overpayment = 6000
